@@ -37,6 +37,12 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+      name: 'Rudolph Reindeer',
+      artist: '在虚无中永存',
+      url: 'https://junior-scarlet-c6s2hzrmxy.edgeone.app/红鼻子鲁道夫%20(online-audio-converter.com).mp3',
+      cover: 'https://i.postimg.cc/gcKQkbPT/IMG-8489.png'
+    },
+    {
       name: '眠于春天',
       artist: '在虚无中永存',
       url: 'http://music.163.com/song/media/outer/url?id=2741819086.mp3',
