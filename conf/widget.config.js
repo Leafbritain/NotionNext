@@ -43,6 +43,12 @@ module.exports = {
       cover: 'https://i.postimg.cc/gcKQkbPT/IMG-8489.png'
     },
     {
+      name: '终焉的舞会',
+      artist: '星野蓮Charlie',
+      url: 'http://music.163.com/song/media/outer/url?id=2014873043.mp3',
+      cover: 'https://i.postimg.cc/gcKQkbPT/IMG-8489.png'
+    },
+    {
       name: '灰绣球',
       artist: 'M3mo / Zy',
       url: 'http://music.163.com/song/media/outer/url?id=2703190915.mp3',
