@@ -38,7 +38,7 @@ module.exports = {
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
       name: 'Temu Hilang',
-      artist: 'L'Alphalpha',
+      artist: 'After love EP',
       url: 'https://straightforward-purple-fmzmhanzbc.edgeone.app/lalphalpha-temu-hilang-official-lyric-visualizer-youtubemp3free.org.mp3',
       cover: 'https://i.postimg.cc/gcKQkbPT/IMG-8489.png'
     },
