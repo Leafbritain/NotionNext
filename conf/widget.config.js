@@ -37,9 +37,9 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '恶魔的爱',
-      artist: '李宏毅＆李明霖 ',
-      url: 'https://equivalent-fuchsia-ibrpa4vlw6.edgeone.app/1_李宏毅%20_%20李明霖%20-%20恶魔的爱_1_HP-UVR_(Instrumental).mp3',
+      name: '영의 왈츠',
+      artist: 'V.A. ',
+      url: 'https://blank-plum-5k6ksyghfr.edgeone.app/34182136522-1-192.mp3',
       cover: 'https://i.postimg.cc/gcKQkbPT/IMG-8489.png'
     },
     {
