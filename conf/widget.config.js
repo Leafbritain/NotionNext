@@ -37,6 +37,12 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+      name: '恶魔的爱',
+      artist: '李宏毅＆李明霖 ',
+      url: 'https://equivalent-fuchsia-ibrpa4vlw6.edgeone.app/1_李宏毅%20_%20李明霖%20-%20恶魔的爱_1_HP-UVR_(Instrumental).mp3',
+      cover: 'https://i.postimg.cc/gcKQkbPT/IMG-8489.png'
+    },
+    {
       name: '走马灯',
       artist: ' ',
       url: 'http://music.163.com/song/media/outer/url?id=2730733921.mp3',
@@ -153,7 +159,7 @@ module.exports = {
     {
       name: 'Be What You Wanna Be',
       artist: 'Darin',
-      url: 'https://ri-sycdn.kuwo.cn/a155bfa6fa8dc7238145f11273e9131a/6749b033/resource/n2/80/89/2000571795.mp3',
+      url: 'https://satisfactory-apricot-sozrp31sz4.edgeone.app/2000571795.mp3',
       cover: 'https://i.postimg.cc/gcKQkbPT/IMG-8489.png'
     },
     {
