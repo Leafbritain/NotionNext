@@ -39,7 +39,7 @@ module.exports = {
     {
       name: '白骑士综合征',
       artist: '九音盒 ',
-      url: 'http://music.163.com/song/media/outer/url?id=3326804897.mp3',
+      url: 'https://satisfactory-green-zk6bcqkhza.edgeone.app/白骑士综合征.mp3',
       cover: 'https://i.postimg.cc/gcKQkbPT/IMG-8489.png'
     },
     {
