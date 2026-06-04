@@ -28,6 +28,12 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+      name: 'わたしの世界',
+      artist: 'ごめんなさいが言えなくて / 鏡音リン',
+      url: 'http://music.163.com/song/media/outer/url?id=1966860502.mp3',
+      cover: 'https://i.postimg.cc/gcKQkbPT/IMG-8489.png'
+    },
+    {
       name: '永恒天堂',
       artist: '在虚无中永存',
       url: 'http://music.163.com/song/media/outer/url?id=3368805321.mp3',
