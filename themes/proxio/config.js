@@ -19,9 +19,9 @@ const CONFIG = {
   PROXIO_HERO_BUTTON_1_TEXT: '', // 英雄区按钮
   PROXIO_HERO_BUTTON_1_URL:
     'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
-  PROXIO_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  PROXIO_HERO_BUTTON_2_URL: 'https://github.com/notionnext-org/NotionNext', // 英雄区按钮
-  PROXIO_HERO_BUTTON_2_ICON: '/images/starter/github-mark.svg', // 英雄区按钮2的图标，不需要则留空
+  PROXIO_HERO_BUTTON_2_TEXT: '', // 英雄区按钮
+  PROXIO_HERO_BUTTON_2_URL: '', // 英雄区按钮
+  PROXIO_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 'https://i.postimg.cc/zBDKkT7L/luo-de-xiao.gif'
   PROXIO_HERO_BANNER_IMAGE: 'https://i.postimg.cc/zBDKkT7L/luo-de-xiao.gif', // hero区背景，默认是获取Notion背景，如需另外配置图片可以填写在这里
@@ -228,17 +228,17 @@ const CONFIG = {
     {
       name: '  ',
       menus: [
-        { title: 'Github', href: 'https://github.com/notionnext-org/NotionNext' },
+        { title: '', href: 'https://github.com/notionnext-org/NotionNext' },
         {
           title: ' ',
           href: ' '
         },
         {
-          title: '功能反馈',
+          title: '',
           href: 'https://github.com/notionnext-org/NotionNext/issues/new/choose'
         },
         {
-          title: '技术讨论',
+          title: '',
           href: 'https://github.com/notionnext-org/NotionNext/discussions'
         },
         {
