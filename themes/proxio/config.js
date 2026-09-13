@@ -202,7 +202,7 @@ const CONFIG = {
   PROXIO_ABOUT_BUTTON_TEXT: '关于我',
 
   // 横向滚动文字
-  PROXIO_BRANDS_ENABLE: false, // 滚动文字
+  PROXIO_BRANDS_ENABLE: true, // 滚动文字
   PROXIO_BRANDS: [
     '生存戦略、しましょうか'
     '◀◘◙█Ε｡.:*❉ﾟ･*:.｡.｡.:*･゜❆ﾟ･*｡.:*❉ﾟ･*:.｡.｡.★═━┈┈ ☆══━━—－－ ☆══━━'
