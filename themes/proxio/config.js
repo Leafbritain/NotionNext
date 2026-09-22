@@ -30,7 +30,7 @@ const CONFIG = {
   // 文章区块
   PROXIO_BLOG_ENABLE: true, // 首页博文区块开关
   PROXIO_BLOG_TITLE: '',
-  PROXIO_BLOG_COUNT: 10, // 首页博文区块展示前4篇文章
+  PROXIO_BLOG_COUNT: 12, // 首页博文区块展示前4篇文章
   PROXIO_BLOG_TEXT_1: '在庭院中',
   PROXIO_BLOG_AUTO_SHOW_COVER: false, // 首页博文区块是否默认显示文章主图；false 时保持悬浮显示主图的旧效果
 
