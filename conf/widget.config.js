@@ -28,6 +28,12 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+      name: '灰色迷迭香',
+      artist: '浦栗子SpuChestnut',
+      url: 'http://music.163.com/song/media/outer/url?id=3348632431.mp3',
+      cover: 'https://i.postimg.cc/gcKQkbPT/IMG-8489.png'
+    },
+    {
       name: 'ほの暮しの庭',
       artist: 'Nippon Ichi',
       url: 'https://pleasant-yellow-qkrevaku.edgeone.dev/ほの暮しの庭.mp3',
